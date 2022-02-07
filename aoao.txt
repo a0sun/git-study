@@ -15,5 +15,5 @@ hello git by aoao!
 hello git by aoao!
 hello git by aoao!
 hello git by aoao!
-hello 22222222222222
-a0a0 111111111111111
+hello 2222
+a0a0 1111
